@@ -1,0 +1,14 @@
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/bin/Debug/netcoreapp2.2/WebApiPaises.deps.json
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/bin/Debug/netcoreapp2.2/WebApiPaises.runtimeconfig.json
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/bin/Debug/netcoreapp2.2/WebApiPaises.runtimeconfig.dev.json
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/bin/Debug/netcoreapp2.2/WebApiPaises.dll
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/bin/Debug/netcoreapp2.2/WebApiPaises.pdb
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/obj/Debug/netcoreapp2.2/WebApiPaises.csprojAssemblyReference.cache
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/obj/Debug/netcoreapp2.2/WebApiPaises.csproj.CoreCompileInputs.cache
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/obj/Debug/netcoreapp2.2/WebApiPaises.RazorAssemblyInfo.cache
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/obj/Debug/netcoreapp2.2/WebApiPaises.RazorAssemblyInfo.cs
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/obj/Debug/netcoreapp2.2/WebApiPaises.AssemblyInfoInputs.cache
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/obj/Debug/netcoreapp2.2/WebApiPaises.AssemblyInfo.cs
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/obj/Debug/netcoreapp2.2/WebApiPaises.RazorTargetAssemblyInfo.cache
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/obj/Debug/netcoreapp2.2/WebApiPaises.dll
+/Users/ro/RiderProjects/WebApiPaises/WebApiPaises/obj/Debug/netcoreapp2.2/WebApiPaises.pdb
